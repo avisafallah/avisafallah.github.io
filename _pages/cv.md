@@ -6,8 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 {% include base_path %}
+
+## Download
+
+To Download my latest CV, click [here](/files/cv.pdf)
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
