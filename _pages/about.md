@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+
 Who am I?
 ======
-Hey there! I'm Avisa Fallah, a Computer Science undergrad at the University of Tehran's College of Mathematics, Statistics, and Computer Science, based in the vibrant city of Tehran, Iran.
 
-From a young age, my interests have spanned a wide spectrum, from a deep passion for the arts, particularly painting, to the sheer delight of solving complex mathematical problems. During my high school years,  I got curious about chemistry, led me to enroll in the Materials and Metallurgy program at the University of Tehran. But guess what? I discovered a passion for programming during a coding class.
+Hey there! I'm Avisa Fallah, an undergraduate student majoring in Computer Science at the College of Mathematics, Statistics, and Computer Science, University of Tehran. From a young age, my interests have spanned a wide spectrum, from a deep passion for the arts, particularly painting, to the sheer delight of solving complex mathematical problems. However, as my love for art, mathematics, and a newfound passion for programming grew, I found my true calling in Computer Science. Since then, I've immersed myself in the exciting worlds of mathematics and programming. Along this journey, I delved into the fascinating realm of artificial intelligence, completing courses in AI and image processing, which sparked my curiosity about the role of brain function in decision-making, emotions, and thoughts.
 
-However, as my love for mathematics and programming grew, my interest in chemistry began to wane, resulting to switch my major to Computer Science in my fourth semester. It was a big move, but totally worth it, as I finally found my true calling. As the saying goes, it's never too late to chase your dreams. 
-
-Since then, I've been diving deep into the exciting world of mathematics and programming. Along this journey, I have delved into the fascinating world of artificial intelligence, having completed courses in AI and image processing.
-
-Today, I'm thrilled to be an undergrad research assistant at the University of Tehran, where I focus on bringing AI into the realms of neuroscience and art.
-
-I'm all about chasing dreams and believe that we find our true selves when we push past our fears and doubts. I'm a passionate, and ever-curious individual who thrives on embracing diverse interests and learning from the incredible journey of life.
+Today, I am thrilled to be an undergraduate research assistant at the University of Tehran, where I focus on integrating AI into the fields of neuroscience and art. I am all about chasing dreams and believe that we discover our true selves when we push past our fears and doubts. I am a passionate and ever-curious individual who thrives on embracing diverse interests and learning from the incredible journey of life.
 
 
 Research Interests
@@ -34,18 +28,12 @@ Furthermore, I am deeply passionate about the fusion of artificial intelligence 
 Other Interests
 ======
 
-Beyond my academic pursuits, I have always been drawn to various forms of artistic expression. From a young age, I immersed myself in the world of art, exploring activities such as painting, singing, playing musical instruments, acting in theater productions, photography, and the joy of writing and reading poems and novels. 
+Beyond my academic pursuits, I have always been drawn to various forms of artistic expression. From a young age, I immersed myself in the world of art, exploring activities such as painting, singing, playing musical instruments, acting in theater productions, and the joy of reading poems and novels. I began my artistic journey as a painter at the tender age of three, inspired by the magical world around me. Moreover, I maintain a healthy lifestyle through activities like swimming and playing volleyball, and I strive to assist others in various ways whenever I can. These endeavors provide me with a profound sense of purpose and fulfillment.
 
-I began my artistic journey as a painter at the tender age of three, inspired by the magical world around me. Over the years, I've not only honed my skills in painting but also gained valuable experiences in each of the activities I mentioned.
-
-In addition, I boost my brainpower and maintain a healthy lifestyle through activities like swimming and playing volleyball. 
-
-Finally, a source of immense satisfaction in my life is the opportunity to help others in various ways whenever I can. This altruistic endeavor provides me with a profound sense of purpose and fulfillment.
-
-Life's a canvas, and I'm painting it with these passions. 
+Life's a canvas, and I'm painting it with these passions.
 
 
 Contact
 ======
 
-Please don't hesitate to get in touch if you'd like to collaborate or have any questions about me or my projects.
+Please don't hesitate to get in touch if you'd like to collaborate or have any questions.
