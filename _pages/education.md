@@ -12,4 +12,3 @@ redirect_from:
 * BSC. in Computer Science, [College of Mathematics, Statistics and Computer Science](https://science.ut.ac.ir/en/web/math),  University of Tehran
 * Diploma in Mathematics and Physics, Negaresh Highschool
 
-You can read more about my education in my CV. You can download my CV by clicking [here](/files/Avisafallah-CV.pdf).
