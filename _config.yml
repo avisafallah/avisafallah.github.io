@@ -84,36 +84,36 @@ author:
   avatar           : "Avisa.png"
   bio              : "Computer Science B.Sc. at the University of Tehran"
   location         : "Tehran, Iran"
-  employer         :
-  pubmed           : 
+  employer         : "lenavi"
+  pubmed           : "lenavi"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "avisafallah2001@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  uri              : "lenavi" 
+  bitbucket        : "lenavi"
+  codepen          : "lenavi"
+  dribbble         : "lenavi"
+  flickr           : "lenavi"
+  facebook         : "lenavi"
+  foursquare       : "lenavi"
   github           : "avisafallah"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : "lenavi"
+  keybase          : "lenavi"
+  instagram        : "lenavi"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "lenavi"
   linkedin         : "avisafallah"
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        : "lenavi"
+  soundcloud       : "lenavi"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            : "lenavi"
+  tumblr           : "lenavi"
   twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
+  vine             : "lenavi"
+  weibo            : "lenavi"
   xing             : "lenavi"
-  artstation       :  "lenavi"
+  # artstation       : "lenavi"
   youtube          :
   wikipedia        :
 
