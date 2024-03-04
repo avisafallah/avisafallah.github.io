@@ -20,7 +20,7 @@ Today, I am thrilled to be an undergraduate research assistant at the University
 ## Research Interests
 
 
-My research interests primarily revolve around neuroscience and its applications in predicting, detecting, and treating mental health diseases and disorders. Specifically, I am fascinated by the intricacies of brain function, particularly their role in decision-making processes and human emotions and behaviors.
+My research interests primarily revolve around the application of AI, especially machine learning and image processing, in neuroscience and cognitive science for predicting, detecting, and treating mental disorders and cognitive disabilities. Specifically, I am fascinated by the intricacies of brain function, particularly its role in decision-making and learning processes, human emotions and behaviors, sleep, and metacognition. 
 
 Furthermore, I am deeply passionate about the fusion of artificial intelligence (AI) with the realm of art, thanks to my background in art. This encompasses the creation of intelligent paintings and music compositions, as well as an analysis of AI's potential to emulate the human creativity in generating brilliant art pieces.
 To visit my art portfolio, click [here](https://www.artstation.com/lenavi). 
