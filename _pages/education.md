@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* BSC. in Computer Science, [College of Mathematics, Statistics and Computer Science](https://science.ut.ac.ir/en/web/math),  University of Tehran
+* B.Sc. in Computer Science, [College of Mathematics, Statistics and Computer Science](https://science.ut.ac.ir/en/web/math),  University of Tehran
 * Diploma in Mathematics and Physics, Negaresh Highschool
 
