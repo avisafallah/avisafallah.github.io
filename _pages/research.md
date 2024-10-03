@@ -1,3 +1,17 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
+---
+
+{% include base_path %}
+
+My research: 
+
+
 <!-- ---
 layout: archive
 title: "Transcript"
@@ -12,17 +26,3 @@ redirect_from:
 ## Download
 
 To Download my offical transcript, click [here](/files/AvisaFallah-Transcript.pdf) -->
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
-redirect_from:
-  - /research
----
-
-{% include base_path %}
-
-<!-- ## Download -->
-
-My research: 
