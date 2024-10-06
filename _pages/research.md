@@ -12,27 +12,37 @@ redirect_from:
 ### National Brain Centre & Cognitive Sciences and Technologies Council (Iran University of Medical Sciences)
 <!-- (Dec. 2023 ‑ present) -->
 ‑ Automating Faux Pas Recognition Test (LLaMA‑3‑Powered Chatbot) and Rehab in Autism
+
 ‑ Classifying individuals as healthy or unhealthy based on MoCA test images
+
 ‑ fMRI study on Deception behavior
+
 ‑ Meta‑analysis on the Impact of Music Therapy on Social Interactions in Autism 
+
 ‑ Implementing Cognitive Games
+
 ‑ Processed EEG data for analyzing brain wave patterns in a photothrombosis stroke model study in laboratory mice
+
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments
 
 ### Neuromatch Impact Scholars Program (Neuromatch Academy)
 <!-- (Aug. 2024 ‑ Present) -->
 ‑ Analyzed fMRI data (HCP) to compare GLM and LSTM models in predicting risky decision‑making, focusing on the role of the Default Mode Network (DMN) in gambling scenarios.
+
 ‑ Applied reinforcement learning models and hierarchical Bayesian approaches to explore the DMN’s role in decision‑making under uncertainty.
 
 ### University of Tehran
  <!-- (Nov. 2023 ‑ Present) -->
-- Advancing Sentiment Analysis of Persian Tweets through a Transformer-based approach
+- Improving Sentiment Analysis of Persian Tweets through a Transformer-based approach
+
 - Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments
 
 ### Iranian Bioinformatics Society (IBIS) 
 <!-- (Sep. 2023 ‑ present) -->
 ‑ Advancing Parkinson’s Disease Diagnosis Through Enhanced PET Imaging Analysis
+
 ‑ Decoding Neurocognitive Disorders Through Computational Analysis
+
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments
 
 ### Image Brain Institute 
