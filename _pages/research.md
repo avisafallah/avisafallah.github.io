@@ -56,6 +56,7 @@ redirect_from:
 ### NeuroScience Competition 
 <!-- (Mar. 2024 ‑ Present) -->
 ‑ Conducted an eye‑tracking study comparing facial recognition patterns in Mild Cognitive Impairment (MCI) patients and healthy individuals.
+
 ‑ Developed strategies to enhance facial recognition in MCI patients using visual salience techniques.
 
 ### Generative Artificial Intelligence for women (ICT Research Institute)
