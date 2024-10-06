@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## National Brain Centre & Cognitive Sciences and Technologies (Iran University of Medical Sciences)
-UNDER THE SUPERViSiON OF PROF. M. T. JOGHATAEi & PROF. F. S. MiRFAZELi 
+### National Brain Centre & Cognitive Sciences and Technologies Council (Iran University of Medical Sciences)
 <!-- (Dec. 2023 ‑ present) -->
 ‑ Automating Faux Pas Recognition Test (LLaMA‑3‑Powered Chatbot) and Rehab in Autism
 ‑ Classifying individuals as healthy or unhealthy based on MoCA test images
@@ -20,33 +19,36 @@ UNDER THE SUPERViSiON OF PROF. M. T. JOGHATAEi & PROF. F. S. MiRFAZELi
 ‑ Processed EEG data for analyzing brain wave patterns in a photothrombosis stroke model study in laboratory mice
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments
 
-## Neuromatch Impact Scholars Program (Neuromatch Academy)
-UNDER THE SUPERViSiON OF DR. MARiANO CABEZAS GREBOL 
+### Neuromatch Impact Scholars Program (Neuromatch Academy)
 <!-- (Aug. 2024 ‑ Present) -->
 ‑ Analyzed fMRI data (HCP) to compare GLM and LSTM models in predicting risky decision‑making, focusing on the role of the Default Mode Network (DMN) in gambling scenarios.
 ‑ Applied reinforcement learning models and hierarchical Bayesian approaches to explore the DMN’s role in decision‑making under uncertainty.
 
-## Iranian Bioinformatics Society (IBIS) 
-UNDER THE SUPERViSiON OF PROF. K. KAVOUSi 
+### University of Tehran
+ <!-- (Nov. 2023 ‑ Present) -->
+- Advancing Sentiment Analysis of Persian Tweets through a Transformer-based approach
+- Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments
+
+### Iranian Bioinformatics Society (IBIS) 
 <!-- (Sep. 2023 ‑ present) -->
 ‑ Advancing Parkinson’s Disease Diagnosis Through Enhanced PET Imaging Analysis
 ‑ Decoding Neurocognitive Disorders Through Computational Analysis
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments
 
-## Image Brain Institute 
-UNDER THE SUPERViSiON OF PROF. M. NAZARi 
+### Image Brain Institute 
 <!-- (Aug. 2024 ‑ Present) -->
 ‑ Automating Faux Pas Recognition Test (LLaMA‑3‑Powered Chatbot) and Rehab in Autism
 
 
-## NeuroScience Competition 
-HOSTED BY PROF. M. VAZiRi PASHKAM 
+
+# Competition
+
+### NeuroScience Competition 
 <!-- (Mar. 2024 ‑ Present) -->
 ‑ Conducted an eye‑tracking study comparing facial recognition patterns in Mild Cognitive Impairment (MCI) patients and healthy individuals.
 ‑ Developed strategies to enhance facial recognition in MCI patients using visual salience techniques.
 
-## Facilitating economic, artistic, and research ideas based on Generative Artificial Intelligence for women (ICT Research Institute)
-UNDER THE SUPERViSiON OF PROF. M. GOODARZi 
+### Generative Artificial Intelligence for women (ICT Research Institute)
 <!-- (Oct. 2023 ‑ Jan 2024) -->
 ‑ Developing a system to detect brain hemorrhages in CT scans and provide urgent treatment
 
