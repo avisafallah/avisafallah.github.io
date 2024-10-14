@@ -36,9 +36,9 @@ redirect_from:
 * ### University of Tehran
 
  <!-- (Nov. 2023 ‑ Present) -->
-- Improving Sentiment Analysis of Persian Tweets through a Transformer-based approach
+-Improving Sentiment Analysis of Persian Tweets through a Transformer-based approach
 
-- Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments
+-Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments
 
 * ### Iranian Bioinformatics Society (IBIS) 
 
@@ -62,14 +62,14 @@ redirect_from:
 
 # Competition
 
-### NeuroScience Competition 
+* ### NeuroScience Competition 
 
 <!-- (Mar. 2024 ‑ Present) -->
 ‑ Conducted an eye‑tracking study comparing facial recognition patterns in Mild Cognitive Impairment (MCI) patients and healthy individuals.
 
 ‑ Developed strategies to enhance facial recognition in MCI patients using visual salience techniques.
 
-### Generative AI for women (ICT Research Institute)
+* ### Generative AI for women (ICT Research Institute)
 
 <!-- (Oct. 2023 ‑ Jan 2024) -->
 ‑ Developing a system to detect brain hemorrhages in CT scans and provide urgent treatment
