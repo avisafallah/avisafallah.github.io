@@ -16,31 +16,31 @@ redirect_from:
 
 
 * ### [Computational Neuroscience](https://portal.neuromatchacademy.org/certificate/33ebec7b-e433-4ed2-a093-579372674586)
-NEUROMATCH ACADEMY (Jul. 2024)
+Neuromatch Academy (Jul. 2024)
 
-* ### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/ verify/5KDBKZAYQ9H5)
-DEEPLEARNiNG.AI (Aug. 2023)
+* ### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/5KDBKZAYQ9H5)
+DeepLearning.AI (Aug. 2023)
 
 * ### [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/account/accomplishments/verify/JH6HZY5TL4V4)
-DEEPLEARNiNG.AI (Sep. 2023)
+DeepLearning.AI (Sep. 2023)
 
 * ### [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/WAKDC5FA3R5J)
-DEEPLEARNiNG.AI (Sep. 2023)
+DeepLearning.AI (Sep. 2023)
 
 * ### [Workshop on “How to be a Teaching Assistant”](/files/AvisaFallah-TA.png)
-UNiVERSiTY OF TEHRAN (Nov. 2022)
+University of Tehran (Nov. 2022)
 
 * ### [Digital Painting](/files/AvisaFallah-DigitalPainting.jpg)
-TEHRAN INSTiTUTE OF TECHNOLOGY (Jan. 2023)
+Tehran Institute of Technology (Jan. 2023)
 
 * ### [Strategic Thinking](/files/AvisaFallah-StrategicThinking.jpg)
-TEHRAN INSTiTUTE OF TECHNOLOGY (Mar. 2023)
+Tehran Institute of Technology (Mar. 2023)
 
 * ### Adobe Illustrator Comprehensive Course 
-INVERSE SCHOOL (In progress)
+Inverse School (In progress)
 
 * ### Blender Comprehensive Course
-INVERSE SCHOOL (In progress)
+Inverse School (In progress)
 
 
 <!-- {% include base_path %}

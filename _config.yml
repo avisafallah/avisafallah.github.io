@@ -86,9 +86,9 @@ author:
   location         : "Tehran, Iran"
   employer         : 
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=geXhyuoAAAAJ&hl=en"
   email            :  "avisafallah2001@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Avisa-Fallah/research"
   uri              :  "lenavi"
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :  
   linkedin         : "avisafallah"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5572-2485"
   pinterest        :  
   soundcloud       :  
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :  
   weibo            :  
   xing             :  
-  artstation       : 
+  artstation       : "https://www.artstation.com/lenavi"
   youtube          :
   wikipedia        :
 
