@@ -13,9 +13,10 @@ redirect_from:
 
 
 Hey there, I’m Avisa Fallah!
-I recently graduated with a degree in Computer Science from the University of Tehran’s College of Mathematics, Statistics, and Computer Science. My journey has been shaped by a love for both the arts and sciences, from painting and creative expression to solving complex mathematical problems. Through these passions, I found my true calling in neuroscience, where cognition, art, mathematics, and programming converge.
+I recently graduated with a degree in Computer Science from the University of Tehran’s College of Mathematics, Statistics, and Computer Science. My journey has been shaped by a love for both the arts and sciences, from painting and creative expression to solving complex mathematical problems. You can visit my art portfolio [here](https://www.artstation.com/lenavi). Through these passions, I found my true calling in neuroscience, where cognition, art, mathematics, and programming converge.
 
-My curiosity led me to the world of artificial intelligence, where I’ve completed courses in AI, machine learning, deep learning, image & EEG processing, and large language models. This deepened my interest in how brain function influences decision-making, emotions, and cognition.
+My curiosity led me to the world of artificial intelligence, where I’ve completed courses in AI and improved my skills in ML, deep learning, image and EEG processing, and LLM. This deepened my interest in how brain function influences our thoughts and behavior
+
 
 Now, as a research assistant, I focus on integrating AI with neuroscience, cognitive science, and art. I believe that pursuing dreams and stepping beyond fear is key to growth. Passionate and ever-curious, I thrive on learning from life’s endless possibilities.
 
@@ -23,9 +24,7 @@ Now, as a research assistant, I focus on integrating AI with neuroscience, cogni
 ## Research Interests
 
 
-My research focuses on applying AI, particularly machine learning and image processing, in neuroscience and cognitive science to predict, detect, and treat mental disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in decision-making, learning, emotions, behaviors, moral reasoning, sleep, and metacognition. I also explore how artistic elements, such as music and painting, can enhance cognition and help address cognitive disabilities.
-
-I’m passionate about the intersection of AI and art, where my artistic background drives my interest in creating intelligent paintings and music compositions. You can visit my art portfolio [here](https://www.artstation.com/lenavi). I’m also fascinated by AI’s ability to emulate human creativity and its potential to generate original artwork. Additionally, I’m exploring how artistic preferences can influence cognitive rehabilitation in mental health patients.
+My research focuses on applying AI, particularly machine learning and image processing, to neuroscience and cognitive science to explore neural mechanisms, predict, detect, and treat mental disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in memory, perception, decision-making, attention, learning, aesthetic preferences, emotions, sleep, metacognition, moral reasoning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements, such as music and painting, can enhance cognition and help address cognitive disabilities. I’m also fascinated by AI’s ability to emulate human creativity and its potential to generate original artwork.
 
 
 
