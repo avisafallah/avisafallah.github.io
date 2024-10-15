@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :  
   linkedin         : "avisafallah"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-5572-2485"
+  orcid            : "my-orcid?orcid=0009-0009-5572-2485"
   pinterest        :  
   soundcloud       :  
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :  
   weibo            :  
   xing             :  
-  artstation       : "https://www.artstation.com/lenavi"
+  artstation       : "lenavi"
   youtube          :
   wikipedia        :
 
