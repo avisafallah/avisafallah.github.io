@@ -33,8 +33,8 @@ University of Tehran (Nov. 2022)
 * ### [Digital Painting](/files/AvisaFallah-DigitalPainting.jpg)
 Tehran Institute of Technology (Jan. 2023)
 
-* ### [Strategic Thinking](/files/AvisaFallah-StrategicThinking.jpg)
-Tehran Institute of Technology (Mar. 2023)
+<!-- * ### [Strategic Thinking](/files/AvisaFallah-StrategicThinking.jpg)
+Tehran Institute of Technology (Mar. 2023) -->
 
 * ### Adobe Illustrator Comprehensive Course 
 Inverse School (In progress)
