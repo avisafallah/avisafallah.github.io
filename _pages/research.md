@@ -26,10 +26,9 @@ redirect_from:
 
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments -->
 
-- Developing cognitive chatbots for computerizing psychological tests and creating online platforms for disease assessment and therapy. 
+Developing cognitive chatbots for computerizing psychological tests and creating online platforms for disease assessment and therapy. 
 
-
-- Studying neurocognitive disorders and social behavior through neuroimaging studies and various psychological tests such as MoCA.
+Studying neurocognitive disorders and social behavior through neuroimaging studies and various psychological tests such as MoCA.
 
 
 * ### Neuromatch Impact Scholars Program (Neuromatch Academy)
@@ -39,20 +38,18 @@ redirect_from:
 
 ‑ Applied reinforcement learning models and hierarchical Bayesian approaches to explore the DMN’s role in decision‑making under uncertainty. -->
 
-- Analyzing fMRI HCP data to examine the default mode network’s role in risky decision-making.
+Analyzing fMRI HCP data to examine the default mode network’s role in risky decision-making.
 
-- Trying various models for predicting decision outcomes based on prior choices and trials.
+Trying various models for predicting decision outcomes based on prior choices and trials.
 
 * ### University of Tehran
 
  <!-- (Nov. 2023 ‑ Present) -->
-<!-- -Improving Sentiment Analysis of Persian Tweets through a Transformer-based approach
+<!-- Improving Sentiment Analysis of Persian Tweets through a Transformer-based approach -Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments -->
 
--Enhancing NLP Efficiency: Optimizing Distilled BERT Models for Resource-Constrained Environments -->
+Studying the computationally enhanced detection of dysgraphia through image analysis techniques. 
 
-- Studying the computationally enhanced detection of dysgraphia through image analysis techniques. 
-
-- Exploring text analysis algorithms, specifically natural language processing applications in social context analysis.
+Exploring text analysis algorithms, specifically natural language processing applications in social context analysis.
 
 * ### Iranian Bioinformatics Society (IBIS) 
 
@@ -63,14 +60,14 @@ redirect_from:
 
 ‑ Developing AI‑driven RFPs for mental disorders diagnostics and treatments -->
 
-- Studying neurocognitive disorders and advancing Parkinson's diagnosis through enhanced PET imaging analysis.
+Studying neurocognitive disorders and advancing Parkinson's diagnosis through enhanced PET imaging analysis.
 
 * ### Image Brain Institute 
 
 <!-- (Aug. 2024 ‑ Present) -->
 <!-- ‑ Automating Faux Pas Recognition Test (LLaMA‑3‑Powered Chatbot) and Rehab in Autism -->
 
-- Developed therapeutic tools and led user-focused studies to enhance Theory of Mind and social comprehension in individuals with autism.
+Developed therapeutic tools and led user-focused studies to enhance Theory of Mind and social comprehension in individuals with autism.
 
 <!-- * ### Innovation And Development Of Artificial Intelligence Center ICT Research Institute
 
