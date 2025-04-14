@@ -24,17 +24,20 @@ Now, as a research assistant, I focus on integrating AI with neuroscience, cogni
 ## Research Interests
 
 
-My research focuses on applying AI, particularly machine learning and image processing, to neuroscience and cognitive science to explore neural mechanisms, predict, detect, and treat mental disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in memory, perception, decision-making, attention, learning, aesthetic preferences, emotions, sleep, metacognition, moral reasoning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements, such as music and painting, can enhance cognition and help address cognitive disabilities. I’m also fascinated by AI’s ability to emulate human creativity and its potential to generate original artwork.
+My research focuses on applying image processing and machine learning skills in neuroscience and cognitive science to explore brain mechanisms, predict, detect, and treat brain disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in vision, perception, emotion, decision-making, learning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements can be used in therapy to address neurocognitive impairments.
 
+
+<!-- My research focuses on applying AI, particularly machine learning and image processing, to neuroscience and cognitive science to explore neural mechanisms, predict, detect, and treat mental disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in memory, perception, decision-making, attention, learning, aesthetic preferences, emotions, sleep, metacognition, moral reasoning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements, such as music and painting, can enhance cognition and help address cognitive disabilities. I’m also fascinated by AI’s ability to emulate human creativity and its potential to generate original artwork. -->
 
 
 ## Other Interests
 
 
-Beyond academia, I’ve always been captivated by various forms of artistic expression. From painting, calligraphy, and photography to singing, playing musical instruments, and performing in theater, art has been an essential part of my life. I began painting at the age of three, inspired by the world around me. I also enjoy reading poetry and novels, as well as watching movies and series, especially those in the supernatural and horror genres. Maintaining a balanced life is also essential to me, which is why I stay active through swimming and volleyball while also striving to help others whenever possible. These pursuits give me a deep sense of purpose and fulfillment.
+Beyond academia, I’ve always been captivated by various forms of artistic expression. From painting, calligraphy, and photography to singing, playing musical instruments, and performing in theater, art has been an essential part of my life. I began painting at the age of three, inspired by the world around me. I also enjoy reading poetry and novels, as well as watching movies and series. Maintaining a balanced life is also essential to me, which is why I stay active through swimming and volleyball while also striving to help others whenever possible. These pursuits give me a deep sense of purpose and fulfillment.
 
 Life's a canvas, and I'm painting it with all my passions.
 
+<!-- Beyond academia, I’ve always been captivated by various forms of artistic expression. From painting, calligraphy, and photography to singing, playing musical instruments, and performing in theater, art has been an essential part of my life. I began painting at the age of three, inspired by the world around me. I also enjoy reading poetry and novels, as well as watching movies and series, especially those in the supernatural and horror genres. Maintaining a balanced life is also essential to me, which is why I stay active through swimming and volleyball while also striving to help others whenever possible. These pursuits give me a deep sense of purpose and fulfillment. -->
 
 ## Contact
 
