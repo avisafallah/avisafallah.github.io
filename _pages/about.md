@@ -15,10 +15,15 @@ redirect_from:
 Hey there, I’m Avisa Fallah!
 I recently graduated with a degree in Computer Science from the University of Tehran’s College of Mathematics, Statistics, and Computer Science. My journey has been shaped by a love for both the arts and sciences, from painting and creative expression to solving complex mathematical problems. You can visit my art portfolio [here](https://www.artstation.com/lenavi). Through these passions, I found my true calling in neuroscience, where cognition, art, mathematics, and programming converge.
 
+My curiosity led me to the world of computational neurocognition, which deepened my interest in how brain function influences our thoughts and behavior. To strengthen my theoretical and practical foundation, I completed several computational courses in brain-related fields, including machine learning, neuroimaging, large language models, and natural language processing.
+
+Now, as a research assistant, I focus on integrating computational and analytical skills with neuroscience, cognitive science, and art to move forward in the realm of brain sciences. I believe that pursuing dreams and stepping beyond fear are key to growth. Passionate and ever-curious, I thrive on learning from life’s endless possibilities.
+
+<!-- 
 My curiosity led me to the world of artificial intelligence, where I’ve completed courses in AI and improved my skills in ML, deep learning, image and EEG processing, and LLM. This deepened my interest in how brain function influences our thoughts and behavior
 
 
-Now, as a research assistant, I focus on integrating AI with neuroscience, cognitive science, and art. I believe that pursuing dreams and stepping beyond fear is key to growth. Passionate and ever-curious, I thrive on learning from life’s endless possibilities.
+Now, as a research assistant, I focus on integrating AI with neuroscience, cognitive science, and art. I believe that pursuing dreams and stepping beyond fear is key to growth. Passionate and ever-curious, I thrive on learning from life’s endless possibilities. -->
 
 
 ## Research Interests
