@@ -29,8 +29,9 @@ Now, as a research assistant, I focus on integrating AI with neuroscience, cogni
 ## Research Interests
 
 
-My research focuses on applying image processing and machine learning skills in neuroscience and cognitive science to explore brain mechanisms, predict, detect, and treat brain disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in vision, perception, emotion, decision-making, learning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements can be used in therapy to address neurocognitive impairments.
+My research focuses on analyzing neuroimages to investigate the relationship between brain and behavior. Specifically, I aim to explore brain mechanisms, predict and detect brain disorders, support cognitive rehabilitation, and contribute to their treatment. One of my key interests lies in developing effective therapeutic and cognitive assessment tools, including the design of cognitive chatbots.
 
+I’m especially fascinated by the complexities of brain function, particularly its roles in vision, perception, emotion, decision-making, learning, and social cognition. Additionally, driven by my enthusiasm for art, I’m passionate about incorporating artistic elements into therapy to address neurocognitive impairments.
 
 <!-- My research focuses on applying AI, particularly machine learning and image processing, to neuroscience and cognitive science to explore neural mechanisms, predict, detect, and treat mental disorders, as well as support cognitive rehabilitation. I’m especially fascinated by the complexities of brain function, including its role in memory, perception, decision-making, attention, learning, aesthetic preferences, emotions, sleep, metacognition, moral reasoning, and social cognition. Additionally, driven by my enthusiasm for art, I'm passionate about how artistic elements, such as music and painting, can enhance cognition and help address cognitive disabilities. I’m also fascinated by AI’s ability to emulate human creativity and its potential to generate original artwork. -->
 
