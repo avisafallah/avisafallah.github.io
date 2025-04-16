@@ -11,16 +11,16 @@ redirect_from:
 
 * Zandiyevakili Y., Fallah A., Esmaeili K., and Sajedi H. ”Revolutionizing Dysgraphia Detection: Combining Feature Fusion with Non‑discriminatory Regularization”. [”11th International Conference on Web Research (ICWR2025)”](https://iranwebconf.ir/). Affiliated with IEEE Xplore. (Accepted)
 
-* Fallah A., Zandiyevakili Y., and Sajedi H. ”Handwriting Image‑Based AI Models for Dysgraphia Diagnosis: A Comprehensive Scoping Review”. Plos One. (Under Review)
+* Fallah A., Zandiyevakili Y., and Sajedi H. ”AI-Driven Approaches for Dysgraphia Diagnosis Using Online and Offline Handwriting Data: A Comprehensive Scoping Review.”. [”Plos One”](https://journals.plos.org/plosone/). (Under Review)
 
-* Fallah A., Keramati A., Nazari M., and Mirfazeli F. ”Automating Theory of Mind Assessment with a LLaMA‑3‑Powered Chatbot: Enhancing Faux Pas Detection in Autism”. 14th International Conference on Computer and Knowledge Engineering (ICCKE 2024). Affiliated with IEEE Xplore.(Accepted)
+* Fallah A., Keramati A., Nazari M., and Mirfazeli F. [”Automating Theory of Mind Assessment with a LLaMA‑3‑Powered Chatbot: Enhancing Faux Pas Detection in Autism”.](https://ieeexplore.ieee.org/document/10874775) [”14th International Conference on Computer and Knowledge Engineering (ICCKE 2024)”](https://iccke.um.ac.ir/2024). Affiliated with IEEE Xplore.
 
-* Fallah A., Zandiyevakili Y., Salehi Z.,Kavousi K. [”AI‑powered PET imaging analysis for enhanced Parkinson’s disease diagnosis”.](https://drive.google.com/file/d/1bs-w0OG4byhINK8WqdxK3Wb9tuOks-va/view) 3rd International & 12th Iranian Conference on Bioinformatics.
+* Fallah A., Zandiyevakili Y., Salehi Z.,Kavousi K. [”AI‑powered PET imaging analysis for enhanced Parkinson’s disease diagnosis”.](https://www.en.symposia.ir/IBIS12) [”3rd International & 12th Iranian Conference on Bioinformatics”](https://icb12.ibis.org.ir/).
 
 
-* Zandiyevakili Y., Fallah A., and Zakeri S. [”Enhacing Sentiment Analysis of Persian Tweets: A Transformer‑Based Approach”.](https://ieeexplore.ieee.org/abstract/document/10533353) 10th International Conference on Web Research (ICWR2024). Affiliated with IEEE Xplore.
+* Zandiyevakili Y., Fallah A., and Zakeri S. [”Enhacing Sentiment Analysis of Persian Tweets: A Transformer‑Based Approach”.](https://ieeexplore.ieee.org/abstract/document/10533353) [”10th International Conference on Web Research (ICWR2024)”](https://iranwebconf.ir/). Affiliated with IEEE Xplore.
 
-* Zandiyevakili Y., Fallah A., and Sajedi H. ”Distilled BERT Model In Natural Language Processing”. 14th International Conference on Computer and Knowledge Engineering (ICCKE 2024). Affiliated with IEEE Xplore. (Accepted)
+* Zandiyevakili Y., Fallah A., and Sajedi H. [”Distilled BERT Model In Natural Language Processing”.](https://ieeexplore.ieee.org/document/10874673) [”14th International Conference on Computer and Knowledge Engineering (ICCKE 2024)”](https://iccke.um.ac.ir/2024). Affiliated with IEEE Xplore.
 
 <!-- * Vafaee Sharbaf F., Salehi Z., Fallah A., Nouruzi F., Mostafavi Abdolmaleky H. and Kavousi K. ”Multi‑Omics Data Integration and Computational Modeling in Neurocognitive Disorders: A systematic review”.Molecular Neurobiology. (Under Review) -->
 
@@ -29,11 +29,7 @@ redirect_from:
 
 \descriptionstyle{\textbf{(2)} \textbf{Fallah A.}, Zandiyevakili Y., and Sajedi H."AI-Driven Approaches for Dysgraphia Diagnosis Using Online and Offline Handwriting Data: A Comprehensive Scoping Review." \textbf{(2025)} \href{https://journals.plos.org/plosone/}{Plos One.} (Under Review)}
 
-
 \descriptionstyle{\textbf{(3)} \textbf{Fallah A.}, Keramati A., Nazari M., and Mirfazeli F. \href{https://ieeexplore.ieee.org/document/10874775} {"Automating Theory of Mind Assessment with a LLaMA-3-Powered Chatbot: Enhancing Faux Pas Detection in Autism."} \textbf{(2024)} \href{https://iccke.um.ac.ir/2024}{14th International Conference on Computer and Knowledge Engineering (ICCKE 2024).} Affiliated with IEEE Xplore.}
-
-
-
 
 \descriptionstyle{\textbf{(4)} Zandiyevakili Y., \textbf{Fallah A.}, and Sajedi H.  \href{https://ieeexplore.ieee.org/document/10874673}{"Distilled BERT Model In Natural Language Processing."} \textbf{(2024)} \href{https://iccke.um.ac.ir/2024}{14th International Conference on Computer and Knowledge Engineering (ICCKE 2024).} Affiliated with IEEE Xplore.}
 
