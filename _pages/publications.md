@@ -15,12 +15,11 @@ redirect_from:
 
 * Fallah A., Keramati A., Nazari M., and Mirfazeli F. [”Automating Theory of Mind Assessment with a LLaMA‑3‑Powered Chatbot: Enhancing Faux Pas Detection in Autism.”](https://ieeexplore.ieee.org/document/10874775) [”14th International Conference on Computer and Knowledge Engineering (ICCKE 2024)”](https://iccke.um.ac.ir/2024), Affiliated with IEEE Xplore.
 
-* Fallah A., Zandiyevakili Y., Salehi Z.,Kavousi K. [”AI‑powered PET imaging analysis for enhanced Parkinson’s disease diagnosis.”](https://www.en.symposia.ir/IBIS12) [”3rd International & 12th Iranian Conference on Bioinformatics”](https://icb12.ibis.org.ir/).
-
+* Zandiyevakili Y., Fallah A., and Sajedi H. [”Distilled BERT Model In Natural Language Processing.”](https://ieeexplore.ieee.org/document/10874673) [”14th International Conference on Computer and Knowledge Engineering (ICCKE 2024)”](https://iccke.um.ac.ir/2024), Affiliated with IEEE Xplore.
 
 * Zandiyevakili Y., Fallah A., and Zakeri S. [”Enhacing Sentiment Analysis of Persian Tweets: A Transformer‑Based Approach.”](https://ieeexplore.ieee.org/abstract/document/10533353) [”10th International Conference on Web Research (ICWR2024)”](https://iranwebconf.ir/), Affiliated with IEEE Xplore.
 
-* Zandiyevakili Y., Fallah A., and Sajedi H. [”Distilled BERT Model In Natural Language Processing.”](https://ieeexplore.ieee.org/document/10874673) [”14th International Conference on Computer and Knowledge Engineering (ICCKE 2024)”](https://iccke.um.ac.ir/2024), Affiliated with IEEE Xplore.
+* Fallah A., Zandiyevakili Y., Salehi Z.,Kavousi K. [”AI‑powered PET imaging analysis for enhanced Parkinson’s disease diagnosis.”](https://www.en.symposia.ir/IBIS12) [”3rd International & 12th Iranian Conference on Bioinformatics”](https://icb12.ibis.org.ir/).
 
 * Moghadam Fard T., Fallah A., Taghipour A., Shokri M., and Mirfazeli F. [”The Effectiveness of Music Therapy for Communication Skills in Children with Autism Spectrum Disorder: A Systematic Review.”](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024568776) (PROSPERO).
 
