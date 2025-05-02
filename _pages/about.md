@@ -44,9 +44,9 @@ I’m especially fascinated by the complexities of brain function, particularly 
 ## Other Interests
 
 
-<!-- Beyond academia, I’ve always been drawn to the world of artistic expression (You can visit my art portfolio [here](https://www.artstation.com/lenavi)). Painting, calligraphy, photography, singing, and theater have been constant companions on my journey, each a different language through which I explore and share my inner world. I began painting at the age of three, inspired by the colors and rhythms of life around me, and that creative spark has never left me. I find comfort in the pages of poetry and novels, and inspiration in the stories told through film and series. To stay grounded, I swim, play volleyball, and seek ways to support those around me, believing that a balanced life nurtures both mind and soul.
+Beyond academia, I’ve always been drawn to the world of artistic expression (You can visit my art portfolio [here](https://www.artstation.com/lenavi)). Painting, calligraphy, photography, singing, and theater have been constant companions on my journey, each a different language through which I explore and share my inner world. I began painting at the age of three, inspired by the colors and rhythms of life around me, and that creative spark has never left me. I find comfort in the pages of poetry and novels, and inspiration in the stories told through film and series. To stay grounded, I swim, play volleyball, and seek ways to support those around me, believing that a balanced life nurtures both mind and soul.
 
-Life is a canvas, and I’m painting it with all the colors of my passions. -->
+Life is a canvas, and I’m painting it with all the colors of my passions.
 
 <!-- 
 Beyond academia, I’ve always been captivated by various forms of artistic expression. From painting, calligraphy, and photography to singing, playing musical instruments, and performing in theater, art has been an essential part of my life. I began painting at the age of three, inspired by the world around me. I also enjoy reading poetry and novels, as well as watching movies and series. Maintaining a balanced life is also essential to me, which is why I stay active through swimming and volleyball while also striving to help others whenever possible. These pursuits give me a deep sense of purpose and fulfillment.
